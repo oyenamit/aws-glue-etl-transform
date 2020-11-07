@@ -1,0 +1,1197 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "0b5e20ec-7450-4e71-bf89-bf7ed0b2cf85": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 430,
+                    "y": 200
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "91f4eb3f-504b-4bb1-a7c6-0e0bfb68fa09": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 430,
+                    "y": 50
+                },
+                "z": 1,
+                "embeds": [],
+                "isassociatedwith": [
+                    "0b5e20ec-7450-4e71-bf89-bf7ed0b2cf85"
+                ]
+            },
+            "2811398c-6bc5-4ed3-be54-22b769870437": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 260,
+                    "y": 50
+                },
+                "z": 1,
+                "embeds": [],
+                "isassociatedwith": [
+                    "d6c70cc3-95c2-4213-bf3a-a094aa26a898"
+                ]
+            },
+            "d6c70cc3-95c2-4213-bf3a-a094aa26a898": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 260,
+                    "y": 200
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "5351ab6e-19ab-4e59-9aa2-cfcff391d0e1": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 110,
+                    "y": 200
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "24a32c02-8066-42ec-8900-20e9fa5b5234": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 590,
+                    "y": 200
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "c5cc8781-b482-4b7f-b12a-288a6f66b4eb": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 590,
+                    "y": 330
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "15b85c7e-e190-4a1c-9ee2-324cd70fec19": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 260,
+                    "y": 420
+                },
+                "z": 1,
+                "embeds": [],
+                "dependson": [
+                    "5351ab6e-19ab-4e59-9aa2-cfcff391d0e1"
+                ]
+            },
+            "a996d896-8466-461b-8209-d2afaf868778": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 110,
+                    "y": 420
+                },
+                "z": 1,
+                "embeds": []
+            },
+            "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23": {
+                "size": {
+                    "width": 300,
+                    "height": 240
+                },
+                "position": {
+                    "x": -290,
+                    "y": 150
+                },
+                "z": 1,
+                "embeds": [
+                    "d483233e-fde0-4fa8-8ce0-0682c08bc908",
+                    "4c39bc8e-ec3a-4dce-a304-118985f61f9f",
+                    "4a327082-10b8-4484-91d3-742821ebdce3",
+                    "93646101-4eb6-4e31-9526-3c94c3e5e323"
+                ]
+            },
+            "4a327082-10b8-4484-91d3-742821ebdce3": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -240,
+                    "y": 200
+                },
+                "z": 2,
+                "parent": "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                "embeds": [],
+                "iscontainedinside": [
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23"
+                ],
+                "dependson": [
+                    "4c39bc8e-ec3a-4dce-a304-118985f61f9f"
+                ]
+            },
+            "93646101-4eb6-4e31-9526-3c94c3e5e323": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -240,
+                    "y": 300
+                },
+                "z": 2,
+                "parent": "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                "embeds": [],
+                "isassociatedwith": [
+                    "4a327082-10b8-4484-91d3-742821ebdce3"
+                ],
+                "iscontainedinside": [
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23"
+                ]
+            },
+            "4c39bc8e-ec3a-4dce-a304-118985f61f9f": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -100,
+                    "y": 200
+                },
+                "z": 2,
+                "parent": "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                "embeds": [],
+                "iscontainedinside": [
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                    "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23"
+                ]
+            },
+            "3fb2c303-1af4-4f4b-a960-ecb1b586edae": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 20,
+                    "y": -60
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "78844eab-570f-4ebf-95ad-d99386a4ad67": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -100,
+                    "y": 50
+                },
+                "z": 0,
+                "embeds": [],
+                "isassociatedwith": [
+                    "bcc92425-eac8-4263-9f9f-953b14a87fd7"
+                ]
+            },
+            "bcc92425-eac8-4263-9f9f-953b14a87fd7": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 20,
+                    "y": 50
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "d4abc8ee-1e6e-41a0-b2e7-7773d1365a84": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -100,
+                    "y": 420
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "d483233e-fde0-4fa8-8ce0-0682c08bc908": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -100,
+                    "y": 300
+                },
+                "z": 2,
+                "parent": "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23",
+                "embeds": []
+            },
+            "3f052b1e-885b-4cff-9ae2-c277f0b70b00": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 590,
+                    "y": 50
+                },
+                "z": 0,
+                "embeds": []
+            }
+        }
+    },
+    "Resources": {
+        "commonRole": {
+            "Type": "AWS::IAM::Role",
+            "Properties": {
+                "ManagedPolicyArns": [
+                    "arn:aws:iam::aws:policy/service-role/AWSGlueServiceRole"
+                ],
+                "AssumeRolePolicyDocument": {
+                    "Version": "2012-10-17",
+                    "Statement": [
+                        {
+                            "Effect": "Allow",
+                            "Principal": {
+                                "Service": [
+                                    "lambda.amazonaws.com",
+                                    "s3.amazonaws.com",
+                                    "glue.amazonaws.com"
+                                ]
+                            },
+                            "Action": [
+                                "sts:AssumeRole"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "0b5e20ec-7450-4e71-bf89-bf7ed0b2cf85"
+                }
+            }
+        },
+        "commonPolicy": {
+            "Type": "AWS::IAM::Policy",
+            "Properties": {
+                "PolicyName": "commonPolicy",
+                "PolicyDocument": {
+                    "Version": "2012-10-17",
+                    "Statement": [
+                        {
+                            "Effect": "Allow",
+                            "Action": [
+                                "s3:*"
+                            ],
+                            "Resource": "*"
+                        },
+                        {
+                            "Effect": "Allow",
+                            "Action": [
+                                "glue:*"
+                            ],
+                            "Resource": "*"
+                        },
+                        {
+                            "Effect": "Allow",
+                            "Action": [
+                                "logs:CreateLogGroup",
+                                "logs:CreateLogStream",
+                                "logs:PutLogEvents"
+                            ],
+                            "Resource": "*"
+                        }
+                    ]
+                },
+                "Roles": [
+                    {
+                        "Ref": "commonRole"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "91f4eb3f-504b-4bb1-a7c6-0e0bfb68fa09"
+                }
+            }
+        },
+        "S3FunctionPolicy": {
+            "Type": "AWS::Lambda::Permission",
+            "Properties": {
+                "FunctionName": {
+                    "Ref": "dataStoreEventHandler"
+                },
+                "Action": "lambda:InvokeFunction",
+                "Principal": "s3.amazonaws.com",
+                "SourceArn": {
+                    "Fn::Join": [
+                        "",
+                        [
+                            "arn:aws:s3:::",
+                            {
+                                "Ref": "dataBucketName"
+                            }
+                        ]
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "2811398c-6bc5-4ed3-be54-22b769870437"
+                }
+            }
+        },
+        "dataStoreEventHandler": {
+            "Type": "AWS::Lambda::Function",
+            "Properties": {
+                "Role": {
+                    "Fn::GetAtt": [
+                        "commonRole",
+                        "Arn"
+                    ]
+                },
+                "Runtime": "nodejs12.x",
+                "Timeout": 300,
+                "Handler": { "Ref": "eventHandlerLambdaHandler" },
+                "Code": {
+                    "S3Bucket": { "Ref": "lambdaS3BucketName" },
+                    "S3Key": { "Ref": "eventHanderLambdaZipFilename" }
+                },
+                "Environment": {
+                    "Variables": {
+                        "inputJobCrawlerName": {
+                            "Ref": "inputDataCrawler"
+                        },
+                        "inputJobTriggerName": {
+                            "Ref": "inputDataJobTrigger"
+                        }
+                    }
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "d6c70cc3-95c2-4213-bf3a-a094aa26a898"
+                }
+            }
+        },
+        "dataStore": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {
+                "BucketName": {
+                    "Ref": "dataBucketName"
+                },
+                "NotificationConfiguration": {
+                    "LambdaConfigurations": [
+                        {
+                            "Event": "s3:ObjectCreated:*",
+                            "Function": {
+                                "Fn::GetAtt": [
+                                    "dataStoreEventHandler",
+                                    "Arn"
+                                ]
+                            },
+                            "Filter": {
+                                "S3Key": {
+                                    "Rules": [
+                                        {
+                                            "Name": "prefix",
+                                            "Value": {
+                                                "Ref": "inputDataFolderName"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "Event": "s3:ObjectRemoved:*",
+                            "Function": {
+                                "Fn::GetAtt": [
+                                    "dataStoreEventHandler",
+                                    "Arn"
+                                ]
+                            },
+                            "Filter": {
+                                "S3Key": {
+                                    "Rules": [
+                                        {
+                                            "Name": "prefix",
+                                            "Value": {
+                                                "Ref": "inputDataFolderName"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "5351ab6e-19ab-4e59-9aa2-cfcff391d0e1"
+                }
+            }
+        },
+        "inputDataGlueJob": {
+            "Type": "AWS::Glue::Job",
+            "Properties": {
+                "Role": {
+                    "Ref": "commonRole"
+                },
+                "ExecutionProperty": {
+                    "MaxConcurrentRuns": 10
+                },
+                "DefaultArguments": {
+                    "--region": {
+                        "Ref": "AWS::Region"
+                    },
+                    "--dbname": {
+                        "Ref": "databaseName"
+                    },
+                    "--tablename": {
+                        "Ref": "inputDataFolderName"
+                    },
+                    "--destinationpath": {
+                        "Fn::Join": [
+                            "/",
+                            [
+                                "s3:/",
+                                {
+                                    "Ref": "dataBucketName"
+                                },
+                                {
+                                    "Ref": "outputDataFolderName"
+                                }
+                            ]
+                        ]
+                    },
+                    "--TempDir": {
+                        "Fn::Join": [
+                            "/",
+                            [
+                                "s3:/",
+                                {
+                                    "Ref": "dataBucketName"
+                                },
+                                {
+                                    "Ref": "tempDataFolderName"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "Command": {
+                    "Name": "glueetl",
+                    "ScriptLocation": {
+                        "Ref": "etlScriptPath"
+                    }
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "24a32c02-8066-42ec-8900-20e9fa5b5234"
+                }
+            }
+        },
+        "inputDataCrawler": {
+            "Type": "AWS::Glue::Crawler",
+            "Properties": {
+                "Role": {
+                    "Fn::GetAtt": [
+                        "commonRole",
+                        "Arn"
+                    ]
+                },
+                "DatabaseName": {
+                    "Ref": "databaseName"
+                },
+                "Targets": {
+                    "S3Targets": [
+                        {
+                            "Path": {
+                                "Fn::Join": [
+                                    "/",
+                                    [
+                                        "s3:/",
+                                        {
+                                            "Ref": "dataBucketName"
+                                        },
+                                        {
+                                            "Ref": "inputDataFolderName"
+                                        },
+                                        ""
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "SchemaChangePolicy": {
+                    "UpdateBehavior": "UPDATE_IN_DATABASE",
+                    "DeleteBehavior": "DELETE_FROM_DATABASE"
+                },
+                "Configuration": "{ \"Version\": 1.0, \"Grouping\": { \"TableGroupingPolicy\": \"CombineCompatibleSchemas\" } }"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "c5cc8781-b482-4b7f-b12a-288a6f66b4eb"
+                }
+            }
+        },
+        "dataStoreCustomResHandler": {
+            "Type": "AWS::Lambda::Function",
+            "Properties": {
+                "Role": {
+                    "Fn::GetAtt": [
+                        "commonRole",
+                        "Arn"
+                    ]
+                },
+                "Runtime": "nodejs12.x",
+                "Timeout": 300,
+                "Handler": { "Ref": "customResLambdaHandler" },
+                "Code": {
+                    "S3Bucket": { "Ref": "lambdaS3BucketName" },
+                    "S3Key": { "Ref": "customResLambdaZipFilename" }
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "15b85c7e-e190-4a1c-9ee2-324cd70fec19"
+                }
+            },
+            "DependsOn": [
+                "dataStore",
+                "commonRole"
+            ]
+        },
+        "dataStoreCustomResource": {
+            "Type": "AWS::CloudFormation::CustomResource",
+            "Properties": {
+                "ServiceToken": {
+                    "Fn::GetAtt": [
+                        "dataStoreCustomResHandler",
+                        "Arn"
+                    ]
+                },
+                "bucketName": {
+                    "Ref": "dataStore"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "a996d896-8466-461b-8209-d2afaf868778"
+                }
+            },
+            "DependsOn": [
+                "dataStore"
+            ]
+        },
+        "dataInputAPI": {
+            "Type": "AWS::ApiGateway::RestApi",
+            "Properties": {
+                "Name": "dataInputAPI",
+                "Description": "REST API for posting input data",
+                "EndpointConfiguration": {
+                    "Types": [
+                        "REGIONAL"
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "a22b0d9b-c4b9-400f-8075-6f28d2d6ce23"
+                }
+            }
+        },
+        "dataInputAPIDeployment": {
+            "Type": "AWS::ApiGateway::Deployment",
+            "Properties": {
+                "RestApiId": {
+                    "Ref": "dataInputAPI"
+                },
+                "Description": "Deployment for data input API"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "4a327082-10b8-4484-91d3-742821ebdce3"
+                }
+            },
+            "DependsOn": [
+                "dataInputAPIPostMethod"
+            ]
+        },
+        "dataInputAPIDevStage": {
+            "Type": "AWS::ApiGateway::Stage",
+            "Properties": {
+                "StageName": "Dev",
+                "RestApiId": {
+                    "Ref": "dataInputAPI"
+                },
+                "Description": "Development stage for data input API",
+                "DeploymentId": {
+                    "Ref": "dataInputAPIDeployment"
+                },
+                "MethodSettings": [
+                    {
+                        "ResourcePath": "/*",
+                        "HttpMethod": "*",
+                        "DataTraceEnabled": "true",
+                        "LoggingLevel": "INFO"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "93646101-4eb6-4e31-9526-3c94c3e5e323"
+                }
+            }
+        },
+        "inputDataUploader": {
+            "Type": "AWS::Lambda::Function",
+            "Properties": {
+                "FunctionName": "inputDataUploader",
+                "Runtime": "nodejs12.x",
+                "Timeout": 300,
+                "Handler": { "Ref": "inputDataUploaderLambdaHandler" },
+                "Code": {
+                    "S3Bucket": { "Ref": "lambdaS3BucketName" },
+                    "S3Key": { "Ref": "inputDataUploaderLambdaZipFilename" }
+                },
+                "Role": {
+                    "Fn::GetAtt": [
+                        "dataUploaderExecutionRole",
+                        "Arn"
+                    ]
+                },
+                "Environment": {
+                    "Variables": {
+                        "S3_BUCKET_NAME": {
+                            "Ref": "dataStore"
+                        },
+                        "S3_FOLDER_NAME": {
+                            "Ref": "inputDataFolderName"
+                        }
+                    }
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "bcc92425-eac8-4263-9f9f-953b14a87fd7"
+                }
+            }
+        },
+        "dataUploaderExecutionRole": {
+            "Type": "AWS::IAM::Role",
+            "Properties": {
+                "AssumeRolePolicyDocument": {
+                    "Version": "2012-10-17",
+                    "Statement": [
+                        {
+                            "Effect": "Allow",
+                            "Principal": {
+                                "Service": "lambda.amazonaws.com"
+                            },
+                            "Action": "sts:AssumeRole"
+                        }
+                    ]
+                },
+                "ManagedPolicyArns": [
+                    "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole",
+                    "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "3fb2c303-1af4-4f4b-a960-ecb1b586edae"
+                }
+            }
+        },
+        "ApigwFunctionPolicy": {
+            "Type": "AWS::Lambda::Permission",
+            "Properties": {
+                "FunctionName": {
+                    "Ref": "inputDataUploader"
+                },
+                "Action": "lambda:InvokeFunction",
+                "Principal": "apigateway.amazonaws.com",
+                "SourceArn": {
+                    "Fn::Join": [
+                        "",
+                        [
+                            "arn:aws:execute-api:",
+                            {
+                                "Ref": "AWS::Region"
+                            },
+                            ":",
+                            {
+                                "Ref": "AWS::AccountId"
+                            },
+                            ":",
+                            {
+                                "Ref": "dataInputAPI"
+                            },
+                            "/*/POST/*"
+                        ]
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "78844eab-570f-4ebf-95ad-d99386a4ad67"
+                }
+            }
+        },
+        "dataInputAPIPostMethod": {
+            "Type": "AWS::ApiGateway::Method",
+            "Properties": {
+                "RestApiId": {
+                    "Ref": "dataInputAPI"
+                },
+                "AuthorizationType": "NONE",
+                "HttpMethod": "POST",
+                "ResourceId": {
+                    "Fn::GetAtt": [
+                        "dataInputAPI",
+                        "RootResourceId"
+                    ]
+                },
+                "OperationName": "uploadDoc",
+                "Integration": {
+                    "Type": "AWS",
+                    "IntegrationHttpMethod": "POST",
+                    "Uri": {
+                        "Fn::Sub": "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${inputDataUploader.Arn}/invocations"
+                    },
+                    "IntegrationResponses": [
+                        {
+                            "StatusCode": 200,
+                            "ResponseTemplates": {
+                                "application/json": "#set($inputRoot = $input.path('$')) { }"
+                            }
+                        },
+                        {
+                            "StatusCode": 400,
+                            "SelectionPattern": ".*code\":400.*",
+                            "ResponseTemplates": {
+                                "application/json": "#set ($errorMessageObj = $util.parseJson($input.path('$.errorMessage'))) { \"code\" : \"$errorMessageObj.code\", \"message\" : \"$errorMessageObj.message\" }"
+                            }
+                        },
+                        {
+                            "StatusCode": 500,
+                            "SelectionPattern": ".*code\":500.*",
+                            "ResponseTemplates": {
+                                "application/json": "#set ($errorMessageObj = $util.parseJson($input.path('$.errorMessage'))) { \"code\" : \"$errorMessageObj.code\", \"message\" : \"$errorMessageObj.message\" }"
+                            }
+                        }
+                    ]
+                },
+                "MethodResponses": [
+                    {
+                        "StatusCode": 200
+                    },
+                    {
+                        "StatusCode": 400
+                    },
+                    {
+                        "StatusCode": 500
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "4c39bc8e-ec3a-4dce-a304-118985f61f9f"
+                }
+            }
+        },
+        "AllowAPIGWtoCWLogsRole": {
+            "Type": "AWS::IAM::Role",
+            "Properties": {
+                "AssumeRolePolicyDocument": {
+                    "Version": "2012-10-17",
+                    "Statement": [
+                        {
+                            "Effect": "Allow",
+                            "Principal": {
+                                "Service": "apigateway.amazonaws.com"
+                            },
+                            "Action": "sts:AssumeRole"
+                        }
+                    ]
+                },
+                "ManagedPolicyArns": [
+                    "arn:aws:iam::aws:policy/service-role/AmazonAPIGatewayPushToCloudWatchLogs"
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "d4abc8ee-1e6e-41a0-b2e7-7773d1365a84"
+                }
+            }
+        },
+        "dataInputAPIAccount": {
+            "Type": "AWS::ApiGateway::Account",
+            "Properties": {
+                "CloudWatchRoleArn": {
+                    "Fn::GetAtt": [
+                        "AllowAPIGWtoCWLogsRole",
+                        "Arn"
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "d483233e-fde0-4fa8-8ce0-0682c08bc908"
+                }
+            }
+        },
+        "inputDataJobTrigger": {
+            "Type": "AWS::Glue::Trigger",
+            "Properties": {
+                "Name": "inputDataJobTrigger",
+                "Type": "ON_DEMAND",
+                "Description": "Trigger that invokes Glue Job to parse input data",
+                "Actions": [
+                    {
+                        "JobName": {
+                            "Ref": "inputDataGlueJob"
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "3f052b1e-885b-4cff-9ae2-c277f0b70b00"
+                }
+            }
+        }
+    },
+    "Parameters": {
+        "dataBucketName": {
+            "Description": "S3 bucket name which will be created and where input and output data should be stored",
+            "Type": "String",
+            "AllowedPattern": "^[a-z0-9\\-\\.]*$",
+            "MinLength": 3,
+            "MaxLength": 63,
+            "ConstraintDescription": "Only lower-case characters, numbers, periods or hyphens allowed (3-63 characters only)"
+        },
+        "inputDataFolderName": {
+            "Description": "Folder name where input data should be stored",
+            "Type": "String",
+            "Default": "inputdata"
+        },
+        "outputDataFolderName": {
+            "Description": "Folder name where output data should be stored",
+            "Type": "String",
+            "Default": "outputdata"
+        },
+        "tempDataFolderName": {
+            "Description": "Folder name where temp data should be stored",
+            "Type": "String",
+            "Default": "tempdata"
+        },
+        "etlScriptPath": {
+            "Description": "Path of the ETL script in S3 bucket. For example: s3://<bucket-name>/glue-etl-transform.py",
+            "Type": "String"
+        },
+        "databaseName": {
+            "Description": "The database name where metadata will be stored",
+            "Type": "String",
+            "AllowedPattern": "^[a-z]*$",
+            "ConstraintDescription": "Only lower-case characters allowed",
+            "Default": "metadatadb"
+        },
+        "lambdaS3BucketName": {
+            "Description": "S3 bucket name where Lambda code resides",
+            "Type": "String",
+            "AllowedPattern": "^[a-z0-9\\-\\.]*$",
+            "MinLength": 3,
+            "MaxLength": 63,
+            "ConstraintDescription": "Only lower-case characters, numbers, periods or hyphens allowed (3-63 characters only)"
+        },
+        "inputDataUploaderLambdaZipFilename": {
+            "Description": "Input data uploader lambda code zipfile name",
+            "Type": "String",
+            "Default": "inputDataUploaderLambda.zip"
+        },
+        "inputDataUploaderLambdaHandler": {
+            "Description": "Input data uploader lambda entry point name",
+            "Type": "String",
+            "Default": "inputDataUploaderLambda.handler"
+        },
+        "eventHanderLambdaZipFilename": {
+            "Description": "Event handler lambda code zipfile name",
+            "Type": "String",
+            "Default": "eventHandlerLambda.zip"
+        },
+        "eventHandlerLambdaHandler": {
+            "Description": "Event handler lambda entry point name",
+            "Type": "String",
+            "Default": "eventHandlerLambda.handler"
+        },
+        "customResLambdaZipFilename": {
+            "Description": "Custom resource lambda code zipfile name",
+            "Type": "String",
+            "Default": "customResLambda.zip"
+        },
+        "customResLambdaHandler": {
+            "Description": "Custom resource lambda entry point name",
+            "Type": "String",
+            "Default": "customResLambda.handler"
+        }
+    },
+    "Outputs": {
+        "DatabaseName": {
+            "Description": "Database name where metadata is stored",
+            "Value": {
+                "Ref": "databaseName"
+            }
+        },
+        "DataBucketName": {
+            "Description": "S3 bucket name where input and output data is stored",
+            "Value": {
+                "Ref": "dataBucketName"
+            }
+        },
+        "OutputDataFolderPath": {
+            "Description": "Folder path where output data will be stored.",
+            "Value": {
+                "Fn::Join": [
+                    "/",
+                    [
+                        "s3:/",
+                        {
+                            "Ref": "dataBucketName"
+                        },
+                        {
+                            "Ref": "outputDataFolderName"
+                        }
+                    ]
+                ]
+            }
+        },
+        "APIUrl": {
+            "Description": "API URL for posting input data",
+            "Value": {
+                "Fn::Sub": "https://${dataInputAPI}.execute-api.${AWS::Region}.amazonaws.com/${dataInputAPIDevStage}/"
+            }
+        }
+    }
+}
